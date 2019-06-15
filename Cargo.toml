@@ -5,3 +5,4 @@ authors = ["Bernardo Belchior <bernardo.belchior1@gmail.com>"]
 edition = "2018"
 
 [dependencies]
+blake2 = "0.8"
